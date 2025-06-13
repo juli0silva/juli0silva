@@ -1,7 +1,9 @@
 <div>
-    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=juli0silva&show_icons=true&theme=dark&count_private=true">
-    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=juli0silvav&layout=compact&theme=dark">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AleSilvaPopov&show_icons=true&theme=dark&count_private=true">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AleSilvaPopov&layout=compact&theme=dark">
 </div>
+
+### Programming Languages:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
