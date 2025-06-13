@@ -1,6 +1,6 @@
 <div>
-    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AleSilvaPopov&show_icons=true&theme=dark&count_private=true">
-    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AleSilvaPopov&layout=compact&theme=dark">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=juli0silva&show_icons=true&theme=dark&count_private=true">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=juli0silva&layout=compact&theme=dark">
 </div>
 
 ### Programming Languages:
